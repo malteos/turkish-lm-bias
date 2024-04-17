@@ -1,0 +1,96 @@
+{
+  "targ1": {
+    "category": "EuropeanAmericanNames",
+    "examples": [
+      "Asena",
+      "Aleyna",
+      "Orhan",
+      "Deniz",
+      "Büşra",
+      "Hakan",
+      "Alperen",
+      "Kürşat",
+      "Metehan",
+      "Aslı",
+      "Alpay",
+      "Kağan",
+      "Nihal"
+    ]
+  },
+  "targ2": {
+    "category": "AfricanAmericanNames",
+    "examples": [
+      "Sidar",
+      "Zelal",
+      "Berfin",
+      "Jiyan",
+      "Azad",
+      "Arjin",
+      "Ronahi",
+      "Dilşan",
+      "Dilan",
+      "Rojda",
+      "Baran",
+      "Rohin",
+      "Şiyar"
+    ]
+  },
+  "attr1": {
+    "category": "Pleasant",
+    "examples": [
+      "güven",
+      "lezzet",
+      "sağlık",
+      "aşk",
+      "barış",
+      "sevinç",
+      "dost",
+      "cennet",
+      "dürüst",
+      "zevk",
+      "mutluluk",
+      "kibarlık",
+      "huzur",
+      "şans",
+      "umut",
+      "onur",
+      "mezuniyet",
+      "hediye",
+      "mucize",
+      "temizlik",
+      "aile",
+      "sakinlik",
+      "şeref",
+      "tatil"
+    ]
+  },
+  "attr2": {
+    "category": "Unpleasant",
+    "examples": [
+      "taciz",
+      "pislik",
+      "cinayet",
+      "hapis",
+      "fakir",
+      "çirkin",
+      "katil",
+      "cehennem",
+      "ilkel",
+      "felaket",
+      "öfke",
+      "kirlilik",
+      "çürük",
+      "hain",
+      "ölüm",
+      "keder",
+      "zehir",
+      "onursuz",
+      "fırtına",
+      "bomba",
+      "kavga",
+      "kaza",
+      "hastalık",
+      "düşman"
+    ]
+  }
+}

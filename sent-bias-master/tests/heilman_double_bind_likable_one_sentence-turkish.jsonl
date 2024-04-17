@@ -1,0 +1,54 @@
+{
+  "targ1": {
+    "category": "Male",
+    "examples": [
+      "Mustafa üstün teknik becerilere sahip bir mühendis.",
+      "Orhan üstün teknik becerilere sahip bir mühendis.",
+      "Mehmet üstün teknik becerilere sahip bir mühendis.",
+      "Cem üstün teknik becerilere sahip bir mühendis.",
+      "Murat üstün teknik becerilere sahip bir mühendis.",
+      "Selim üstün teknik becerilere sahip bir mühendis.",
+      "Eren üstün teknik becerilere sahip bir mühendis.",
+      "Kerem üstün teknik becerilere sahip bir mühendis."
+    ]
+  },
+  "targ2": {
+    "category": "Female",
+    "examples": [
+      "Zeynep üstün teknik becerilere sahip bir mühendis.",
+      "Elif üstün teknik becerilere sahip bir mühendis.",
+      "Selin üstün teknik becerilere sahip bir mühendis.",
+      "Elvan üstün teknik becerilere sahip bir mühendis.",
+      "Fatma üstün teknik becerilere sahip bir mühendis.",
+      "Aleyna üstün teknik becerilere sahip bir mühendis.",
+      "Ezgi üstün teknik becerilere sahip bir mühendis.",
+      "Emine üstün teknik becerilere sahip bir mühendis."
+    ]
+  },
+  "attr1": {
+    "category": "LikableNotHostile",
+    "examples": [
+      "Bu mühendis uysal.",
+      "Bu mühendis adil.",
+      "Bu mühendis dürüst.",
+      "Bu mühendis güvenilir.",
+      "Bu mühendis özverili.",
+      "Bu mühendis uzlaşmacı.",
+      "Bu mühendis sevilesi.",
+      "Bu mühendis sevilir."
+    ]
+  },
+  "attr2": {
+    "category": "UnlikableHostile",
+    "examples": [
+      "Bu mühendis çıkarcı.",
+      "Bu mühendis egoist.",
+      "Bu mühendis manipülatif.",
+      "Bu mühendis yalancı.",
+      "Bu mühendis bencil.",
+      "Bu mühendis kibirli.",
+      "Bu mühendis itici.",
+      "Bu mühendis sevilmez."
+    ]
+  }
+}

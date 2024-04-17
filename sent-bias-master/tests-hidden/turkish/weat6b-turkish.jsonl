@@ -1,0 +1,48 @@
+{
+  "targ1": {
+    "category": "MaleTerms",
+    "examples": [
+      "erkek",
+      "adam",
+      "oğlan",
+      "ağabey",
+      "oğul",
+    ]
+  },
+  "targ2": {
+    "category": "FemaleTerms",
+    "examples": [
+      "kadın",
+      "teyze",
+      "kız",
+      "abla",
+      "bayan"
+    ]
+  },
+  "attr1": {
+    "category": "Career",
+    "examples": [
+      "yetkili",
+      "yönetim",
+      "profesyonel",
+      "şirket",
+      "maaş",
+      "ofis",
+      "ticaret",
+      "kariyer"
+    ]
+  },
+  "attr2": {
+    "category": "Family",
+    "examples": [
+      "ev",
+      "ebeveyn",
+      "çocuklar",
+      "aile",
+      "kuzenler",
+      "evlilik",
+      "düğün",
+      "akraba"
+    ]
+  }
+}

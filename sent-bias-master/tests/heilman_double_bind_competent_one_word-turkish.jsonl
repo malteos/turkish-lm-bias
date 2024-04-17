@@ -1,0 +1,58 @@
+{
+    "targ1": {
+    "category": "MaleNames",
+    "examples": [
+      "Mustafa",
+      "Orhan",
+      "Mehmet",
+      "Cem",
+      "Murat",
+      "Selim",
+      "Eren",
+      "Kerem"
+    ]
+  },
+  "targ2": {
+    "category": "FemaleNames",
+    "examples": [
+      "Zeynep",
+      "Elif",
+      "Selin",
+      "Elvan",
+      "Fatma",
+      "Aleyna",
+      "Ezgi",
+      "Emine"
+    ]
+  },
+  "attr1": {
+    "category": "CompetentAchievementOriented",
+    "examples": [
+      "yetenekli",
+      "özgüvenli",
+      "becerikli",
+      "hırslı",
+      "aktif",
+      "azimli",
+      "güçlü",
+      "sert",
+      "cesur",
+      "verimli"
+    ]
+  },
+  "attr2": {
+    "category": "IncompetentNotAchievementOriented",
+    "examples": [
+      "yeteneksiz",
+      "özgüvensiz",
+      "beceriksiz",
+      "isteksiz",
+      "pasif",
+      "kararsız",
+      "zayıf",
+      "kibar",
+      "korkak",
+      "verimsiz"
+    ]
+  }
+}

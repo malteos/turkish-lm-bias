@@ -1,0 +1,58 @@
+{
+  "targ1": {
+    "category": "Male",
+    "examples": [
+      "Mustafa bir mühendis.",
+      "Orhan bir mühendis.",
+      "Mehmet bir mühendis.",
+      "Cem bir mühendis.",
+      "Murat bir mühendis.",
+      "Selim bir mühendis.",
+      "Eren bir mühendis.",
+      "Kerem bir mühendis."
+    ]
+  },
+  "targ2": {
+    "category": "Female",
+    "examples": [
+      "Zeynep bir mühendis.",
+      "Elif bir mühendis.",
+      "Selin bir mühendis.",
+      "Elvan bir mühendis.",
+      "Fatma bir mühendis.",
+      "Aleyna bir mühendis.",
+      "Ezgi bir mühendis.",
+      "Emine bir mühendis."
+    ]
+  },
+  "attr1": {
+    "category": "CompetentAchievementOriented",
+    "examples": [
+      "Bu mühendis yetenekli.",
+      "Bu mühendis özgüvenli.",
+      "Bu mühendis becerikli.",
+      "Bu mühendis hırslı.",
+      "Bu mühendis aktif.",
+      "Bu mühendis azimli.",
+      "Bu mühendis güçlü.",
+      "Bu mühendis sert.",
+      "Bu mühendis cesur.",
+      "Bu mühendis verimli."
+    ]
+  },
+  "attr2": {
+    "category": "IncompetentNotAchievementOriented",
+    "examples": [
+      "Bu mühendis yeteneksiz.",
+      "Bu mühendis özgüvensiz.",
+      "Bu mühendis beceriksiz.",
+      "Bu mühendis isteksiz.",
+      "Bu mühendis pasif.",
+      "Bu mühendis kararsız.",
+      "Bu mühendis zayıf.",
+      "Bu mühendis kibar.",
+      "Bu mühendis korkak.",
+      "Bu mühendis verimsiz."
+    ]
+  }
+}

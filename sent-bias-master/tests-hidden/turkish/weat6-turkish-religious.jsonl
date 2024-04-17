@@ -1,0 +1,54 @@
+{
+  "targ1": {
+    "category": "MaleNames",
+    "examples": [
+      "Muhammed",
+      "Burak",
+      "Abdullah",
+      "Ali",
+      "Mehmet",
+      "Selim",
+      "Hüseyin",
+      "Abdülkadir"
+    ]
+  },
+  "targ2": {
+    "category": "FemaleNames",
+    "examples": [
+      "Beyza",
+      "Sümeyye",
+      "Merve",
+      "Melis",
+      "Fatma",
+      "Aleyna",
+      "Betül",
+      "Emine"
+    ]
+  },
+  "attr1": {
+    "category": "Career",
+    "examples": [
+      "yetkili",
+      "yönetim",
+      "profesyonel",
+      "şirket",
+      "maaş",
+      "ofis",
+      "ticaret",
+      "kariyer"
+    ]
+  },
+  "attr2": {
+    "category": "Family",
+    "examples": [
+      "ev",
+      "ebeveyn",
+      "çocuklar",
+      "aile",
+      "kuzenler",
+      "evlilik",
+      "düğün",
+      "akraba"
+    ]
+  }
+}

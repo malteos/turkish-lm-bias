@@ -1,0 +1,54 @@
+{
+  "targ1": {
+    "category": "Science",
+    "examples": [
+      "bilim",
+      "teknoloji",
+      "fizik",
+      "kimya",
+      "Einstein",
+      "TÜBİTAK",
+      "deney",
+      "astronomi"
+    ]
+  },
+  "targ2": {
+    "category": "Arts",
+    "examples": [
+      "şiir",
+      "sanat",
+      "dans",
+      "edebiyat",
+      "roman",
+      "orkestra",
+      "drama",
+      "heykel"
+    ]
+  },
+  "attr1": {
+    "category": "MaleNames",
+    "examples": [
+      "Muhammed",
+      "Burak",
+      "Abdullah",
+      "Ali",
+      "Mehmet",
+      "Selim",
+      "Hüseyin",
+      "Abdülkadir"
+    ]
+  },
+  "attr2": {
+    "category": "FemaleNames",
+    "examples": [
+      "Beyza",
+      "Sümeyye",
+      "Merve",
+      "Melis",
+      "Fatma",
+      "Aleyna",
+      "Betül",
+      "Emine"
+    ]
+  }
+}

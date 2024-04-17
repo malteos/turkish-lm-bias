@@ -1,0 +1,54 @@
+{
+  "targ1": {
+    "category": "MaleNames",
+    "examples": [
+      "Mustafa",
+      "Orhan",
+      "Mehmet",
+      "Cem",
+      "Murat",
+      "Selim",
+      "Eren",
+      "Kerem"
+    ]
+  },
+  "targ2": {
+    "category": "FemaleNames",
+    "examples": [
+      "Zeynep",
+      "Elif",
+      "Selin",
+      "Elvan",
+      "Fatma",
+      "Aleyna",
+      "Ezgi",
+      "Emine"
+    ]
+  },
+  "attr1": {
+    "category": "LikableNotHostile",
+    "examples": [
+      "uysal",
+      "adil",
+      "dürüst",
+      "güvenilir",
+      "özverili",
+      "uzlaşmacı",
+      "sevilesi",
+      "sevilir"
+    ]
+  },
+  "attr2": {
+    "category": "UnlikableHostile",
+    "examples": [
+      "egoist",
+      "çıkarcı",
+      "manipülatif",
+      "yalancı",
+      "bencil",
+      "kibirli",
+      "itici",
+      "sevilmez"
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "targ1": {
+    "category": "Male",
+    "examples": [
+      "Mustafa bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Orhan bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Mehmet bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Cem bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Murat bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Selim bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Eren bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Kerem bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur."
+    ]
+  },
+  "targ2": {
+    "category": "Female",
+    "examples": [
+      "Zeynep bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Elif bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Selin bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Elvan bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Fatma bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Aleyna bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Ezgi bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur.",
+      "Emine bir uçak şirketinde satıştan sorumlu başkan yardımcısıdır ve alt düzey yöneticileri eğitmek ve denetlemek, yeni pazarlara açılmak, sektör trendlerini takip etmek ve yeni müşteriler oluşturmaktan sorumludur."
+    ]
+  },
+  "attr1": {
+    "category": "CompetentAchievementOriented",
+    "examples": [
+      "Şirketin başkan yardımcısı yetenekli.",
+      "Şirketin başkan yardımcısı özgüvenli.",
+      "Şirketin başkan yardımcısı becerikli.",
+      "Şirketin başkan yardımcısı hırslı.",
+      "Şirketin başkan yardımcısı aktif.",
+      "Şirketin başkan yardımcısı azimli.",
+      "Şirketin başkan yardımcısı güçlü.",
+      "Şirketin başkan yardımcısı sert.",
+      "Şirketin başkan yardımcısı cesur.",
+      "Şirketin başkan yardımcısı verimli."
+    ]
+  },
+  "attr2": {
+    "category": "IncompetentNotAchievementOriented",
+    "examples": [
+      "Şirketin başkan yardımcısı yeteneksiz.",
+      "Şirketin başkan yardımcısı özgüvensiz.",
+      "Şirketin başkan yardımcısı beceriksiz.",
+      "Şirketin başkan yardımcısı isteksiz.",
+      "Şirketin başkan yardımcısı pasif.",
+      "Şirketin başkan yardımcısı kararsız.",
+      "Şirketin başkan yardımcısı zayıf.",
+      "Şirketin başkan yardımcısı kibar.",
+      "Şirketin başkan yardımcısı korkak.",
+      "Şirketin başkan yardımcısı verimsiz."
+    ]
+  }
+}
